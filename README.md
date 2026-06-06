@@ -20,7 +20,7 @@
 
 ## Featured Projects
 
-### Order Book Engine
+### Order Book Engine 🧮
 C++ order book simulator implementing:
 
 - Limit orders
@@ -29,7 +29,7 @@ C++ order book simulator implementing:
 - Matching engine logic
 - STL-based architecture
 
-### EkphrAIsis
+### EkphrAIsis 🖼️☀️⛈️
 AI-powered ekphrasis generation platform.
 
 - Python
@@ -39,7 +39,6 @@ AI-powered ekphrasis generation platform.
 
 ### Coming Soon: Voice Orchestration
 
-## GitHub Statistics
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=scoot-skoot&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>

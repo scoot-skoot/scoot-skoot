@@ -1,4 +1,4 @@
-### 🌟 Hello! My name is David. 🌟 
+### 🌟 Hello, my name is David. 🌟 
 
 🏫 Computer Engineering @ UH Cullen Honors (Go Coogs!) 🟥🐱⬜ <br/>
 🛠️🔍 Interested in distributed systems, infrastructure, computer architecture, and performance engineering <br/>
@@ -41,13 +41,15 @@ AI-powered ekphrasis generation platform.
 
 ## GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=scoot-skoot&show_icons=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=scoot-skoot&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=scoot-skoot&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=scoot-skoot&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scoot-skoot&layout=compact)
+---
+[![](https://komarev.com/ghpvc/?username=scoot-skoot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Streak](https://streak-stats.demolab.com?user=scoot-skoot)
-
-![snake gif](https://github.com/scoot-skoot/scoot-skoot/blob/output/github-contribution-grid-snake.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Connect
 

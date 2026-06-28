@@ -14,30 +14,30 @@
 
 ## Currently Working On
 - Agnocast 🚗 🤖
-- OCR + LLM Voice Orchestration 🗣️🤓
+- Gameboy Emulation
 - Studying distributed systems, operating systems, and computer architecture  🐋🚢🛜
 
 
 ## Featured Projects
 
-### Order Book Engine 🧮
-C++ order book simulator implementing:
+### 📚 PDF-to-Audio Platform
 
-- Limit orders
-- Market orders
-- Stop orders
-- Matching engine logic
-- STL-based architecture
+Production-oriented document processing system that converts PDFs into narrated audiobooks through both a CLI and asynchronous REST API.
+
+#### Highlights:
+Multi-stage document processing pipeline that combined LLM segmentation with deterministic validation
+LLM-assisted speaker attribution with graceful, robust fallbacks
+Background job processing using Go, PostgreSQL, and Python workers
+Dockerized architecture designed for cloud deployment
+#### Technologies:
+Python, Go,PostgreSQL,Docker, REST APIs, DeepSeek API, Edge TTS
 
 ### EkphrAIsis 🖼️☀️⛈️
-AI-powered ekphrasis generation platform.
+AI-powered ekphrasis generation platform. (CodeRed Astra 2025 Hackathon Project)
+#### Technologies: 
+Python, SQLite, LLM integration, Real-time news and weather data ingestion
 
-- Python
-- SQLite
-- LLM integration
-- Real-time news and weather ingestion
-
-### Coming Soon: Voice Orchestration
+### Coming Soon: Gameboy Emulator
 
 
 # 📊 GitHub Stats:

@@ -14,7 +14,7 @@
 
 ## Currently Working On
 - Agnocast 🚗 🤖
-- Gameboy Emulation
+- NES Emulation
 - Studying distributed systems, operating systems, and computer architecture  🐋🚢🛜
 
 

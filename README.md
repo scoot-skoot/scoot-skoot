@@ -12,9 +12,10 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-## Currently Working On
-- Agnocast 🚗 🤖
+## Currently Working On (Ranked on Time Commitment)
+- Fullstack Applications! (Bought into need to ship hype)
 - NES Emulation
+- - Agnocast 🚗 🤖 (Have not worked on in a while tbh)
 - Studying distributed systems, operating systems, and computer architecture  🐋🚢🛜
 
 

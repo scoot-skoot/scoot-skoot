@@ -13,7 +13,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ## Currently Working On (Ranked on Time Commitment)
-- Fullstack Applications! (Bought into need to ship hype)
+- UH-Spark UP (Edge AI Research)
+- Leading filesystem design and data schema for Space City Rocketry (UH Avionics)
 - NES Emulation
 - - Agnocast 🚗 🤖 (Have not worked on in a while tbh)
 - Studying distributed systems, operating systems, and computer architecture  🐋🚢🛜

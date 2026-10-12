@@ -34,8 +34,16 @@ Dockerized architecture designed for cloud deployment
 #### Technologies:
 Python, Go,PostgreSQL,Docker, REST APIs, DeepSeek API, Edge TTS
 
-### EkphrAIsis 🖼️☀️⛈️
-AI-powered ekphrasis generation platform. (CodeRed Astra 2025 Hackathon Project)
+### 🏆 [First Line](https://github.com/scoot-skoot/codered-orion) — *Winner, MLH Best Use of ElevenLabs @ CodeRed Orion 2026*
+A voice-based training simulator for crisis line volunteers. Trainees take calls from AI callers who sound real, react in real time, and remember earlier conversations.
+**Highlights:**
+- Realistic caller voices and speech-to-text with ElevenLabs
+- Live distress and trust meter that responds to how you talk to the caller
+- Persistent caller memory (Backboard) so repeat callers remember you
+- Gemini-driven caller behavior plus a scored debrief after every call
+- Postgres data layer on Tiger Data that I designed (schema, SQL, readiness report)
+**Technologies:** TypeScript · React · Vite · Node.js · Express · PostgreSQL · Gemini · ElevenLabs · Render
+🔗 [Live demo](https://first-line-cvjm.onrender.com)
 #### Technologies: 
 Python, SQLite, LLM integration, Real-time news and weather data ingestion
 

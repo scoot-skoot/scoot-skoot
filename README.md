@@ -44,8 +44,6 @@ A voice-based training simulator for crisis line volunteers. Trainees take calls
 - Postgres data layer on Tiger Data that I designed (schema, SQL, readiness report)
 **Technologies:** TypeScript · React · Vite · Node.js · Express · PostgreSQL · Gemini · ElevenLabs · Render
 🔗 [Live demo](https://first-line-cvjm.onrender.com)
-#### Technologies: 
-Python, SQLite, LLM integration, Real-time news and weather data ingestion
 
 ### Coming Soon: Gameboy Emulator
 
